@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.1.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: jinhwan.suk@linecorp.com
+author_name: jinhwan.suk
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: jupylot
+project_short_description: Error checking assistant for JupyterLab
+python_name: jupylot
+repository: https://github.com/vrvrv/jupylot.git
+test: true
+
