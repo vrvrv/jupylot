@@ -3,3 +3,28 @@
 
     https://jupyterlab.readthedocs.io/en/stable/developer/css.html
 */
+.error-button {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 2px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 8px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition-duration: 0.4s; /* transition effect */
+    width: 60px;
+    height: 25px;
+}
+  
+.error-button:hover {
+background-color: white; 
+color: black; 
+border: 1px solid #4CAF50;
+}
